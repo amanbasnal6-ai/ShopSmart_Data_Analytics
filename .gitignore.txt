@@ -1,0 +1,10 @@
+# Ignore raw dataset & compiled SQLite binary (reproducible via 02 & 03 scripts)
+01_Dataset/
+03_SQL/*.sqlite
+
+# Ignore Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store

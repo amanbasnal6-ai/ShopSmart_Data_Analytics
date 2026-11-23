@@ -1,0 +1,23 @@
+[
+  {
+    "priority": "P1 \u2014 High Revenue Impact",
+    "area": "Customer Retention & Lifecycle Marketing",
+    "finding": "Only 3.04% of customers (2,887) place a 2nd order, yet repeaters deliver +121.57 higher LTV (259.95 vs. 138.38).",
+    "action": "Launch an automated post-delivery 30-day win-back voucher targeting 'High-Value New Buyers' and 'Recent One-Time Buyers'.",
+    "quantified_impact": "Converting just 5% of one-time buyers adds ~559,809.63 in incremental revenue."
+  },
+  {
+    "priority": "P2 \u2014 Margin & Conversion Protection",
+    "area": "Regional Fulfillment & Freight Subsidies",
+    "finding": "Northeast hubs like Bahia (BA) pay 26.37 avg freight (+74% vs. SP's 15.15) and wait 19.2 days vs. SP's 8.7 days.",
+    "action": "Position regional micro-fulfillment inventory for top categories ('beleza_saude', 'relogios_presentes') outside SP and cap freight fees on baskets above 150.",
+    "quantified_impact": "Reduces inter-state transit time by 4\u20136 days and lowers cart abandonment in high-freight states."
+  },
+  {
+    "priority": "P3 \u2014 Peak Inventory & SLA Readiness",
+    "area": "Q4 Demand Scaling & Delivery Promises",
+    "finding": "Model projects 7,693,272.31 over the next 6 months, peaking in Nov 2018 at 1,427,004.05, while current late delivery rate sits at 8.11%.",
+    "action": "Increase safety stock by 35% in 'beleza_saude' (1,255,695.13 historical leader) by October and tighten padded delivery estimates (currently 23.7 days estimated vs. 12.6 actual).",
+    "quantified_impact": "Prevents Q4 stockouts during peak demand while improving checkout conversion through realistic delivery dates."
+  }
+]

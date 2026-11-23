@@ -1,0 +1,6 @@
+﻿01_Dataset/
+03_SQL/*.sqlite
+__pycache__/
+*.py[cod]
+.venv/
+venv/
